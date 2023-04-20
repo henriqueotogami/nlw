@@ -19,7 +19,7 @@
   "homepage": "https://github.com/HenriqueMAP/nlw#readme",
   "dependencies": {
     "express": "^4.18.2",
-    "nunjucks": "^3.2.2",
+    "nunjucks": "^3.2.4",
     "sqlite-async": "^1.1.0"
   }
 }
